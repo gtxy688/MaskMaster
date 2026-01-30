@@ -13,3 +13,5 @@
 *.user
 *.unityproj
 *.ds_store
+/.vs
+/.gitignore
