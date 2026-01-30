@@ -13,4 +13,5 @@
 *.user
 *.unityproj
 *.ds_store
-/.vs/MaskMaster
+/.vs
+/.gitignore
